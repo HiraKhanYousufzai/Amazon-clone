@@ -1,4 +1,4 @@
-**Netflix Clone**
+**Amazon Clone**
 
 **Description:**
  Built a responsive, scalable e-commerce platform with features similar to Amazon.
